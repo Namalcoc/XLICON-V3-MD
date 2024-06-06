@@ -25,7 +25,7 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "aveemk"
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
