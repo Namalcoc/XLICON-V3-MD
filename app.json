@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "94741640693"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
@@ -20,7 +20,7 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-febc1e05-7917-41bd-bd8f-b6f38e125c55"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
